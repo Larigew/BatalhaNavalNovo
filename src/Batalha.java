@@ -111,7 +111,7 @@ public class Batalha {
         return matriz;
     }
 
-    //VEZ DO JOGADOR 2, PEDIR AJUDA PARA FAZER - nao entendi aqui
+    //VEZ DO JOGADOR 2
     public static String[][] jogador2(String[][] matriz){
 
         return matriz;
